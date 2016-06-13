@@ -90,7 +90,7 @@ base_url = 'http://www.london-gazette.co.uk/issues/'
 
 #And these are the numbers which we need to complete that URL to make each individual URL
 #This array has been compiled using the =JOIN formula in Google Docs on a column of URL codes
-codes =['60192/notices/1617681', '60192/notices/1617680', '60192/notices/1617679', '60191/notices/1616818', '60191/notices/1616790', '60191/notices/1618074', '60189/notices/1617086', '60189/notices/1615844', '60188/notices/1616259', '60188/notices/1615089', '60188/notices/1615017', '60188/notices/1614978', '60187/notices/1613913', '60186/notices/1612847', '60186/notices/1614386', '60185/notices/1611729', '60183/notices/1610969']
+codes =['G405010405']
 
 #go through the schoolIDs array above, and for each ID...
 for item in codes:
